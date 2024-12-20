@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0fe0f226442a435bbb8b9fdd88f77ac4/artifacts
+end_time: 1734728011146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fe0f226442a435bbb8b9fdd88f77ac4
+run_name: popular-donkey-84
+run_uuid: 0fe0f226442a435bbb8b9fdd88f77ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734727946002
+status: 3
+tags: []
+user_id: andreil

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77b996c06f214e739315cd5a92d3e9ea/artifacts
+end_time: 1734725498365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77b996c06f214e739315cd5a92d3e9ea
+run_name: traveling-mole-90
+run_uuid: 77b996c06f214e739315cd5a92d3e9ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734725477981
+status: 3
+tags: []
+user_id: andreil

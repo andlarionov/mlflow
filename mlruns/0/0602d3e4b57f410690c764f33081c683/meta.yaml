@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0602d3e4b57f410690c764f33081c683/artifacts
+end_time: 1734730020647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0602d3e4b57f410690c764f33081c683
+run_name: painted-calf-507
+run_uuid: 0602d3e4b57f410690c764f33081c683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734730018442
+status: 3
+tags: []
+user_id: andreil

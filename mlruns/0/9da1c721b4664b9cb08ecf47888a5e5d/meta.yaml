@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9da1c721b4664b9cb08ecf47888a5e5d/artifacts
+end_time: 1734729036815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9da1c721b4664b9cb08ecf47888a5e5d
+run_name: beautiful-cat-551
+run_uuid: 9da1c721b4664b9cb08ecf47888a5e5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734729034123
+status: 3
+tags: []
+user_id: andreil
